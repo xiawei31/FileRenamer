@@ -1,0 +1,8 @@
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\obj\Debug\FileNameGovener.csprojResolveAssemblyReference.cache
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\obj\Debug\FileNameGovener.Form1.resources
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\obj\Debug\FileNameGovener.Properties.Resources.resources
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\obj\Debug\FileNameGovener.csproj.GenerateResource.Cache
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\bin\Debug\FileNameGovener.exe
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\bin\Debug\FileNameGovener.pdb
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\obj\Debug\FileNameGovener.exe
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\obj\Debug\FileNameGovener.pdb

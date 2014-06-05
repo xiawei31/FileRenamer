@@ -1,0 +1,7 @@
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\bin\Release\FileNameGovener.exe
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\bin\Release\FileNameGovener.pdb
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\obj\Release\FileNameGovener.Form1.resources
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\obj\Release\FileNameGovener.Properties.Resources.resources
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\obj\Release\FileNameGovener.csproj.GenerateResource.Cache
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\obj\Release\FileNameGovener.exe
+c:\users\parthas\documents\visual studio 2013\Projects\FileNameGovener\FileNameGovener\obj\Release\FileNameGovener.pdb
